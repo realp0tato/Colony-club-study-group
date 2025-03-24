@@ -1,2 +1,4 @@
 # Colony club study group
-## use language python, c++
+## use language
+1. python
+2. c++
