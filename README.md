@@ -17,4 +17,3 @@
 
 ## 🔗 참고 자료
 - [코드트리 Novice Low 과정](https://www.codetree.ai/training-course/novice-low)  
-- [백준 알고리즘 문제풀이](https://www.acmicpc.net/)  
