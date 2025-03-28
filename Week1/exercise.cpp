@@ -1,10 +1,4 @@
 
----
-
-## **📌 `week1/exercises.cpp` (실습 문제 코드)**
-동아리원들이 실습할 수 있도록 문제 코드 파일을 제공합니다.
-
-```cpp
 #include <iostream>
 using namespace std;
 
